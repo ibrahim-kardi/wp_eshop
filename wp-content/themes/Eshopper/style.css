@@ -1,0 +1,13 @@
+/*
+Theme Name:kardi's theme
+Theme URI: https://wordpress.org/
+Author:Kardi
+Author URI:https:/facebook.com
+Description:This is my own theme
+
+
+*/
+.mainmenu ul li a:hover, .mainmenu ul li a.active, .shop-menu ul li a.active {
+    background: none;
+    color: #fdb45e;
+}
